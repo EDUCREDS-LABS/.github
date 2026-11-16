@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://educreds.xyz/logo.png" alt="EduCreds Labs" width="180" />
+  <img src="[https://educreds.xyz/logo.png](https://res.cloudinary.com/dycszahnr/image/upload/v1792096097/educreds-logo_B-W_v5nxlk.png)" alt="EduCreds Labs" width="180" />
 </p>
 
 <h1 align="center">EduCreds Labs</h1>
